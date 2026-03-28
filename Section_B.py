@@ -184,13 +184,11 @@ if mode == "User":
     with tabs[1]:
         st.subheader("Top Recommendations")
         
-        # Get all possible recommendations first
         all_recs = recommend_movies(user_id, movies_df, top_n=len(movies_df))
         
         if all_recs.empty:
-            st.info("No recommendations yet. Please rate some movies first.")
+            st.info("Rate some movies first.")
         else:
-            # The max number of recommendations is limited by the number of movies available
             max_rec = len(all_recs)
             top_n = st.number_input(
                 "Number of Recommendations",
