@@ -1,0 +1,10 @@
+{"movie_id": 1, "title": "Spirited Away", "genre": "Anime", "year": 2001, "avg_rating": 4.8}
+{"movie_id": 2, "title": "My Neighbor Totoro", "genre": "Anime", "year": 1988, "avg_rating": 4.7}
+{"movie_id": 3, "title": "Toy Story", "genre": "Cartoon", "year": 1995, "avg_rating": 4.6}
+{"movie_id": 4, "title": "Shrek", "genre": "Comedy/Cartoon", "year": 2001, "avg_rating": 4.6}
+{"movie_id": 5, "title": "One Piece: Stampede", "genre": "Anime/Adventure", "year": 2019, "avg_rating": 4.4}
+{"movie_id": 6, "title": "Howls Moving Castle", "genre": "Anime/Fantasy", "year": 2004, "avg_rating": 4.7}
+{"movie_id": 7, "title": "Jurassic Park", "genre": "Adventure", "year": 1993, "avg_rating": 4.7}
+{"movie_id": 8, "title": "The Dark Knight", "genre": "Action", "year": 2008, "avg_rating": 4.9}
+{"movie_id": 9, "title": "Forrest Gump", "genre": "Drama/Comedy", "year": 1994, "avg_rating": 4.8}
+{"movie_id": 10, "title": "Avengers: Endgame", "genre": "Action/Sci-Fi", "year": 2019, "avg_rating": 4.6}
